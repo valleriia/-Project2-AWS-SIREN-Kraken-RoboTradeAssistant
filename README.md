@@ -62,6 +62,7 @@ def Buy_Order(intent_request):
         },
     )
 ```
+
 ### **Future Projections**
 Projecting forward, Siren prototype can be extended much further by additionally implementing NLP and machine learning. Without NLP, Siren is limited as she relies majorly on pre-fed static information and is naturally less equipped to handle human languages that have variations in emotions, intent, and sentiments to express each specific query. Injecting NLP and machine learning into Siren NLP can pave the way for an easier-to-use interface to features and outstanding services. But more importantly, it will give her users an experience as if they’re having a real conversation, as opposed to going through a limited set of options and menus to reach their end goal. Thus, ideally, the future development for Siren is to continue learning, collecting and storing data, adapting and evolving to the user’s needs and market conditions.
 
@@ -73,3 +74,5 @@ The first leveling up of Siren is to execute complex trades with stop loss and t
 - [https://docs.aws.amazon.com/lambda/](https://docs.aws.amazon.com/lambda/)
 - [britannica.com](https://www.britannica.com/technology/automation/Advantages-and-disadvantages-of-automation)
 - [capacity.com](https://capacity.com/chatbots/faqs/what-is-chatbot-automation/)
+
+<img src="/image/BuyOrder.gif" width="200" height="400">
