@@ -75,4 +75,4 @@ The first leveling up of Siren is to execute complex trades with stop loss and t
 - [britannica.com](https://www.britannica.com/technology/automation/Advantages-and-disadvantages-of-automation)
 - [capacity.com](https://capacity.com/chatbots/faqs/what-is-chatbot-automation/)
 
-<img src="/image/BuyOrder.gif" width="200" height="400">
+<img src="/Image/BuyOrder.gif" width="200" height="400">
