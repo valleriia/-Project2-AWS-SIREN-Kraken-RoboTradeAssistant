@@ -1,1 +1,1 @@
-# -Project2-AWS-SIREN-Kraken-RoboTradeAssistant
+# Project2-SIREN-Kraken-RoboTradeAssistant
